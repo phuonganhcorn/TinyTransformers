@@ -1,4 +1,4 @@
-## Transformer from scratch
+## Tiny Transformers
 ---
 ### Overview
 
